@@ -1,7 +1,9 @@
 # STEDI-Human-Balance-Analytics
 STEDI Human Balance Analytics from UDACITY
 
-Using AWS Glue, AWS S3, Python, and Spark, create or generate Python scripts to build a lakehouse solution in AWS that satisfies these requirements from the STEDI data scientists. Project required from AWS Data Engineering nanodegree on Udacity.
+#### Using AWS Glue, AWS S3, Python, and Spark, create or generate Python scripts to build a lakehouse solution in AWS that satisfies these requirements from the STEDI data scientists.
+
+
 ---
 ## Data Table
 
